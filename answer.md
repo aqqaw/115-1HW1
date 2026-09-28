@@ -14,6 +14,7 @@
 Ans:
 >
 >用老師給Github倉庫連結點擊**Fork**至個人倉庫
+>![作業](images/q1_fork.png)
 >
 
 2. 
@@ -74,7 +75,12 @@ Ans:
 
 3.
 Ans:
-
+- i 
+![新分支](images/qi_feature.png)
+- ii
+![文檔](images/qii_txt.png)
+- iii
+![提交](images/qiii_commit.png)
 
 4. 
 
